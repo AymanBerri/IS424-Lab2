@@ -19,3 +19,7 @@ ol{
 p{
     text-align: center;
 }
+
+.done {
+    text-decoration: line-through;
+}
